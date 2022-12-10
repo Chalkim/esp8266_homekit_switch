@@ -1,0 +1,9 @@
+{
+    "relay": {
+        "pin": 0,
+        "state": 1
+    },
+    "system": {
+        "debug": true
+    }
+}
